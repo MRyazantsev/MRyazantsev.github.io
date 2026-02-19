@@ -8,57 +8,45 @@ redirect_from:
 ---
 
 {% include base_path %}
+Рязанцев Михаил Юрьевич, 14.02.2003, г. Воронеж, Россия.
 
-Education
+Образование
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Аспирантура (ожидается)
+* Магистратура, ПММ, ВГУ, 2024-2026
+* Бакалавриат, ПММ, ВГУ, 2020-2024.
 
-Work experience
+Опыт работы
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* ОАО "Газпром газораспределение Воронеж"
+  * 17.07.2023 - 17.01.2025
+  * Инженер-программист 1 категории. Группа программирования и сопровождения информационных систем.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ФГБОУ ВО "ВГУ"
+  * 21.02.2024 - 31.12.2025
+  * Лаборант-исследователь (в области математики). Факультет прикладной математики, информатики и механики, Кафедра математического и прикладного анализа.
+  * Руководитель: Профессор Юрий Евгеньевич Гликлих
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ООО "ДИДЖИТАЛ"
+  * 02.02.2026 - текущий день
+  * Специалист и старший специалист отдела сопровождения и технической поддержки
   
-Skills
+Навыки
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Теория вероятностей
+* Программирование на Python
+* Программирование на 1С
+* Английский язык
 
-Publications
+Публикации
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Выступления
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
