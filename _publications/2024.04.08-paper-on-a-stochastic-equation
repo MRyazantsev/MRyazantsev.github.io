@@ -2,10 +2,9 @@
 title: "On a stochastic algebraic-differential equation with mean derivatives satisfying the rank-degree condition"
 collection: publications
 category: manuscripts
-permalink: /publication/08.04.24-paperOn a stochastic algebraic-
-differential equation with mean derivatives satisfying the rank-degree condition
+permalink: /publication/2024.04.08-paper-on-a-stochastic-equation
 excerpt: 'We investigate a stochastic second order algebraic-differential equation with mean derivatives whose matrix pencil is regular and satisfies the rank-degree condition. This equation is modelling dynamically distorted signals in an electronic device so that the quantum effects are taken into account that turn the deterministic incoming signal into a stochastic process. We prove the existence of solution of this equation.'
-date: 2009-10-01
+date: 2024-04-08
 venue: 'Journal
 of Computational and Engineering Mathematics'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
