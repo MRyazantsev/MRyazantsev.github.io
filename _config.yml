@@ -86,11 +86,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
+    title: 'Книги'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Статьи в журналах'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Публикации при конференциях'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
