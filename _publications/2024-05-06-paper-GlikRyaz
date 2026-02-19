@@ -1,1 +1,16 @@
-
+---
+title: "A stochastic algebraic-differential equation of the Newton-Nelson type"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-05-06-paper-GlikRyaz
+excerpt: 'We investigate a stochastic algebraic-differential equation, modelling dynamically distored signals in an electronic device with the presence of noise in the ingoing signal, on the basis of the theory of mean derivatives of stochastic processes'
+date: 2024-05-06
+venue: 'Journal of Mathematical Sciences'
+# slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s10958-024-07092-2'
+# bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
+citation: 'Gliklikh
+Yu.E. Ryazantsev M.Yu. A stochastic algebraic-differential equation of the Newton-Nelson
+type // Journal of Mathematical Sciences, 2024.-Vol. 280., P. 725–732'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
