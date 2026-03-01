@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "ymni_kot.jpg"
   name             : "М. Ю. Рязанцев"
   pronouns         : # example: "she/her"  
   bio              : "Студент ВГУ, факультет ПММ, кафедра прикладного и математического анализа"
